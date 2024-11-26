@@ -3,11 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GIT JOSE</title>
+    <title>Document</title>
 </head>
 <body>
-    <h1>prueba de polo</h1>
-    <script src="funcion.js"></script>
-    <h2>Estamos en la rama LOguin</h2>
+    <h3>esto es la rama login con un archvio php</h3>
+    
 </body>
 </html>

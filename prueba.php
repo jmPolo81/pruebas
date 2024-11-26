@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h3>esto es la rama login con un archvio php</h3>
+    <h3>esto es la rama login con un archvio php ya en la rama login</h3>
     
 </body>
 </html>
